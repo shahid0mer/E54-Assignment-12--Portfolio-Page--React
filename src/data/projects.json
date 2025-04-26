@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Faculty  Management System",
+    "imageSrc": "projects/project.png",
+    "description": "The Faculty Leave Management System is a digital platform designed to streamline leave application processes under E-Governance.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Jshoppy  ( E-commerce web application)",
+    "imageSrc": "projects/project.png",
+    "description": "Wyntra is a robust online shopping platform designed to provide an enhanced user experience and real-time communication",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
